@@ -6,7 +6,7 @@ This is a simple Train Seat Reservation System built with Python and Streamlit. 
 
 ## Features
 
-- **Seat Arrangement Visualization**: The app visually represents the seat arrangement, showing which seats are booked (`[B]`) and which are available (`[A]`).
+- **Seat Arrangement Visualization**: The app visually represents the seat arrangement, showing which seats are booked (`[E]`) and which are available (`[F]`).
 - **Book Up to 7 Seats**: Users can reserve between 1 and 7 seats in one booking.
 - **Priority Booking**: The system prioritizes booking seats in the same row when possible.
 
